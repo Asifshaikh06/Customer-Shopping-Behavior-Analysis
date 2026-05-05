@@ -63,3 +63,6 @@ Enhanced overall dashboard readability and alignment
 Python (Pandas, Data Cleaning)
 SQL Server (SQL Analysis)
 Power BI (Dashboard & Visualization)
+
+<img width="1042" height="570" alt="image" src="https://github.com/user-attachments/assets/8910dfcd-3a94-4865-b3d6-32c9b56f65f5" />
+
